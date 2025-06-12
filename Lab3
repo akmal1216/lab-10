@@ -1,0 +1,99 @@
+#include <iostream>
+using namespace std;
+int main() {
+    //problem 1
+//     int i=0;
+//     int sum=0;
+//     while(i<10) {
+//         cout<<i<<" ";
+//         sum+=i;
+//         ++i;
+//     }
+// cout<<sum<<endl;
+
+    //problem 2
+    // int n;
+    // cin >> n;
+    // cout << n << endl;
+    // int i = 0;
+    // while(i < n) {
+    //     if(i % 10 == 0) {
+    //         cout << i <<" ";
+    //     }
+    //     ++i;
+    // }
+    // cout << endl;
+
+    //problem 3
+
+    // for (char i = 65; i < 90; i++) {
+    //     cout << i;
+    //     if (i%5==4) cout << endl;
+    // }
+
+    //problem 4
+//     int num;
+//     cin >> num;
+// int count=0;
+//     for (int i=1; i<=num; i++) {
+//         if (num%i==0) {
+//             count++;
+//         }
+//     }
+//     if (count==2) {
+//         cout<<"prime;";
+//     }
+//     else {
+//         cout<<"not prime;";
+//     }
+
+    // problem 5
+
+    // int x;
+    // cin >> x;
+    // while (x>0) {
+    //     cout << x%10;
+    //     x=x/10;
+    //
+    // }
+
+    //problem 6
+
+    // int n;
+    // int sum = 0;
+    // cout << "Enter the value of n: ";
+    // cin >> n;
+    // for (int i = 1; i <= n; ++i) {
+    //     sum += i * i;
+    // }
+    // cout << "Sum of the series (" << n << "*" << n << ") is: " << sum << endl;
+    //
+    // return 0;
+
+    //problem 7
+//     int n;
+//     cin >> n;
+//     int max;
+//     cin >> max;
+//     int t;
+//     for (int i = 2; i <= n; i++) {
+//         cin >> t;
+//         if (max<t) {
+//             max=t;
+//         }
+//     }
+// cout << max << endl;
+/ / problem 8
+        // int size;
+        // cout << "Enter the size of the square: ";
+        // cin >> size;
+        //
+        // for (int i = 0; i < size; ++i) {
+        //     for (int j = 0; j < size; ++j) {
+        //         cout << "# ";
+        //     }
+        //     cout << endl;
+        // }
+        //
+        // return 0;
+}
